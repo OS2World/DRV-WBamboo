@@ -1,0 +1,43 @@
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿                                     ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ Wacom Bamboo for OS/2 ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ BAMBOO00S.ZIP ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                                     ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ Use your Wacom Bamboo attached to an OS/2 (or eComStation) system. Supports
+ switching between Pen and Touch and working in absolute or relative mode. Made
+ in Holland by Wim Brul. Thanks to Joop Nijenhuis for requirements and testing.
+
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³ Contains the source code of the Wacom Bamboo for OS/2 support program. ³
+ ³ Contains 2 documentation files: bamboo.doc (this file) and bamboo.txt. ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ May be freely used and exchanged. May be modified to suit your own individual
+ needs and purposes. You may use this product solely at your own risk. I cannot
+ be held responsible for any damages occurring due to your using this product.
+ You may not lease, rent or sell this product to any other party. Have fun.
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿                                      ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ Source Code Description ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ bamboo.doc ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                                      ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ The Wacom Bamboo for OS/2 support program is a 32 bit OS/2 executable program.
+ It has been written in turbo assembler ideal mode using the flat memory model.
+ It has been compiled with Borland Turbo Assembler for OS/2 version 4.1 and
+ linked with Operating System/2 Linear Executable Linker version 2.02.001.
+
+ It consists of the following files:
+
+   bamboo.asm - source code
+   bamboo.def - definition file
+   bamboo.exe - executable program
+   bamboo.lst - listing file
+   bamboo.mak - make file
+   bamboo.map - map file
+   bamboo.obj - object code
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿                                    ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ OS/2 Product Description  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ bamboo.txt ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                                    ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ Contains the - Wacom Bamboo for OS/2 - User Manual.
+
