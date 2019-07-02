@@ -17,4 +17,4 @@ AUTHORS
 
 LINKS
 =============
-- 
+- http://home.hccnet.nl/w.m.brul/usbwacom/index.html
